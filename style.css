@@ -20,15 +20,17 @@ body{
 
 .vert-line .dot{
   background-image: url(https://logos-world.net/wp-content/uploads/2020/04/Kobe-Bryant-Emblem.png);
-  width: 60px;
-  height: 60px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 100px;
+  height: 100px;
   margin: 20px auto;
   z-index: 1;
 }
 
 .vert-line .line {
   border-left: 4px solid #CBC9CA;
-  height: 200%;
+  height: 180%;
   width:4px;
   position: absolute;
   left: 49%;
