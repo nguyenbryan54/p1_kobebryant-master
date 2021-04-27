@@ -29,7 +29,7 @@ body{
 
 .vert-line .line {
   border-left: 4px solid #CBC9CA;
-  height: 175%;
+  height: 200%;
   width:4px;
   position: absolute;
   left: 49%;
