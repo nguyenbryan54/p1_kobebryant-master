@@ -18,9 +18,8 @@ body{
   position: relative;
 }
 
-.vert-line .dot {
-  background-color: red;
-  border-radius: 50%;
+.vert-line .dot{
+  background-image: url(https://logos-world.net/wp-content/uploads/2020/04/Kobe-Bryant-Emblem.png);
   width: 60px;
   height: 60px;
   margin: 20px auto;
