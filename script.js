@@ -117,3 +117,4 @@ $kobe10.waypoint(function(direction) {
     $kobe10.attr('src', 'https://thestateindia.com/wp-content/uploads/2020/01/basketball-veteran-Coby-Bryan-and-his-daughter-die-in-helicopter-crash.png')
   }
 }, { offset: '20%'});
+
